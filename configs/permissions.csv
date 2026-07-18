@@ -1,0 +1,5 @@
+directory,group,permission
+HR_data,hr,2770
+IT_data,it,2770
+Finance_data,finance,2770
+shared,root,2777
