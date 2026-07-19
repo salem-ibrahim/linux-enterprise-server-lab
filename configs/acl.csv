@@ -1,0 +1,4 @@
+directory,user,permission
+Finance_data,mona,r-x
+IT_data,salem,rwx
+shared,ahmed,rwx
